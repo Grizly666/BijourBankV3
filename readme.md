@@ -10,13 +10,13 @@ js vanilla, html/css , pour le graph [Chartjs](https://www.chartjs.org/docs/late
 Suite à notre échange sur l'application Bijourbank j'ai apporté les changements demandé  
   
 
-*Traitement des données du formulaire  
+* Traitement des données du formulaire  
 `* data en local storage`
 `* Persitence des données grace à la fonction setData /!\ modification à prévoir car le formulaire se déclence en onClick /!\`  
-*Calcule du pourcentage croissance/décroissance  
-*graphique  
+* Calcule du pourcentage croissance/décroissance  
+* Graphique  
 `*animation`  
 `*ajout du label + montant`  
-*filtre pour les débit et crédit  
-*calcule de la somme total  
+* Filtre pour les débit et crédit  
+* Calcule de la somme total  
 -----------------   
